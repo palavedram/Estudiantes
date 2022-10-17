@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865946025963",
+    "project_id": "estudiantes-ed285",
+    "storage_bucket": "estudiantes-ed285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865946025963:android:07b26cd76cd2d7a13ae3ae",
+        "android_client_info": {
+          "package_name": "com.estudiantes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865946025963-dc0h2q3n2qee3ur8ccrdebd8h70g3s7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJo3RhzX3Koob2QCqG5NWctO1yosDMHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865946025963-dc0h2q3n2qee3ur8ccrdebd8h70g3s7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
